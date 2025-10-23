@@ -6,7 +6,7 @@
     "receiver": "Scherer Josef, Römertshofen 2, 82272 Moorenweis, Deutschland",
     "price": "5.300 €",
     "description": "Hersteller: BMW<br>Typ: R 1200 C<br>Fahrgestelnummer: WB10379A34ZK92754<br>Erstzulassung: 06/2004<br>KM laut Vorbesitzer: 16.817 km<br>Leistung: 45 kW (61 PS)<br>Hubraum: 1.170 cm³<br>Farbe: Silber<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.<br>Alle Zubehörteile sind enthalten.<br>Koffer sind ebenfalls dabei.",
-    "address": "Augustiner Depot<br>Schlagenhauser Mühle 2<br>85283 Wolnzach<br>Deutschland<br>Telefon: +49 176 13280083",
+    "address": "Augustiner Depot<br>Schlagenhausermühle 2<br>85283 Wolnzach<br>Deutschland<br>Telefon: +49 176 13280083",
     "documents": [
       {
         "name": "Lieferschein",
@@ -36,7 +36,7 @@
       "lng": ""
     },
     "delivery": {
-      "street": "Schlagenhauser Mühle 2",
+      "street": "Schlagenhausermühle 2",
       "postal_code": "85283",
       "city": "Wolnzach",
       "country": "Deutschland",
